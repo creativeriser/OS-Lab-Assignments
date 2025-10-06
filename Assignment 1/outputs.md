@@ -44,5 +44,3 @@ Output showing different execution orders due to varying nice values.
 ![Task 5 Output](screenshots/task5.png)  
 
 ---
-
-📌 *Note: All screenshots are taken from actual runs on a Mac/Linux environment. For Task 4 on Mac, `ps -p <PID>` shows process info and `lsof -p <PID>` shows open files.*
