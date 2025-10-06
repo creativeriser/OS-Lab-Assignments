@@ -5,7 +5,7 @@
 ## Student Details
 - **Name:** Vikrant Singh  
 - **Roll Number:** 2301010028  
-- **Course:** B.Tech CSE, ENCS351 – Operating Systems  
+- **Course:** B.Tech CSE (core), ENCS351 – Operating Systems  
 
 ---
 
