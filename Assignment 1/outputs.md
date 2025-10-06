@@ -25,13 +25,13 @@ Output demonstrating zombie and orphan process states.
 
 ## 🔹 Task 4: Inspecting Process Info (Mac)  
 **Step 1:** Finding the PID of a running process.  
-![Task 4 Step 1 - Find PID](screenshots/task4 a.png)  
+![Task 4 Step 1 - Find PID](screenshots/task4_a.png)  
 
 **Step 2:** Showing process info for PID 8591  
-![Task 4 - PID 8591 Output](screenshots/task4 b.png)  
+![Task 4 - PID 8591 Output](screenshots/task4_b.png)  
 
 **Step 3:** Showing process info for PID 7472  
-![Task 4 - PID 7472 Output](screenshots/task4 c.png)  
+![Task 4 - PID 7472 Output](screenshots/task4_c.png)  
 
 ---
 
