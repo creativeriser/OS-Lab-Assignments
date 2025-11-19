@@ -8,5 +8,7 @@
 
 ## Repository Structure
 - `Assignment 1/` – Lab 1 scripts and outputs  
-- `Assignment 2/` – Lab 2 scripts and outputs  
+- `Assignment 2/` – Lab 2 scripts and outputs
+- `Assignment 3/` – Lab 3 scripts and outputs  
+- `Assignment 4/` – Lab 4 scripts and outputs 
 - `README.md` – Repository overview
